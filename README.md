@@ -5,4 +5,5 @@ Included Scripts:
 1.	Track Usage of All/Specific Applications
 2.	Fetch Performance Details (CPU, Memory, Disk Usage)
 3.	Fetch Most Recent Error Details
+4.	Fetch System Logs and Details
 
