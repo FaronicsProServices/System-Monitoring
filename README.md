@@ -6,4 +6,5 @@ Included Scripts:
 2.	Fetch Performance Details (CPU, Memory, Disk Usage)
 3.	Fetch Most Recent Error Details
 4.	Fetch System Logs and Details
+5.	Fetch Windows License
 
